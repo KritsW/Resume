@@ -5,7 +5,6 @@ body{
 
 div{
   background-color: #3A6351;
-  /* height: 652px; */
 }
 
 h1{
@@ -35,7 +34,7 @@ h1{
 .mountain1{
   margin-left: 150px;
   margin-right: 100px;
-  width: 40%;
+  width: 50%;
 }
 
 .example-div{
