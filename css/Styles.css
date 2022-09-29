@@ -1,0 +1,22 @@
+body{
+  background-color:powderblue;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 30%
+}
+
+
+img{
+height: 300px;
+width: 220px;
+border-radius: 10px;
+}
+
+h1{
+  color: #428558;
+}

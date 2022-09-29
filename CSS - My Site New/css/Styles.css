@@ -1,0 +1,61 @@
+body{
+  margin: 0px;
+}
+
+
+div{
+  background-color: #3A6351;
+  height: 652px;
+}
+
+h1{
+  padding: 30px;
+  margin: 0px;
+}
+
+.cloud1{
+  display: block;
+  margin-left: 800px;
+  margin-right: auto;
+  width: 10%;
+}
+
+.cloud3{
+  margin-bottom: 100px;
+  margin-left: 80px;
+  width: 10%;
+}
+
+.cloud4{
+  margin-bottom: 200px;
+  margin-left: auto;
+  width: 10%;
+}
+
+.mountain1{
+  margin-left: 150px;
+  margin-right: 100px;
+  width: 50%;
+}
+
+.example-div{
+height: 220px;
+width: 83%;
+background-color: pink;
+border-style: solid;
+border-width: 10px;
+border-top: 0px;
+padding: 20px;
+}
+
+.middle-container{
+height: 200px;
+width: 200px;
+background-color: blue;
+}
+
+.bottom-container{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
