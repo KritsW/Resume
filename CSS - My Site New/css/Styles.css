@@ -23,14 +23,14 @@ h3{
 .topleft-cloud{
   position: absolute;
   left:350px;
-  top:20px;
+  top:75px;
   width: 10%;
 }
 
 .topright-cloud{
   position: absolute;
   right:300px;
-  top:50px;
+  top:140px;
   /* margin-left: 800px;
   margin-right: auto; */
   width: 10%;
@@ -60,7 +60,7 @@ h3{
 }
 .top-container{
   background-color: #7895B2;
-  padding-top: 100px;
+  padding-top: 155px;
   position: relative;
 }
 
