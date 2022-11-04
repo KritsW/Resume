@@ -2,6 +2,7 @@ body{
   margin: 0px;
   text-align: center;
   font-family: verdana,sans-serif;
+  background-color: #B9E0FF;
 }
 
 
@@ -88,7 +89,7 @@ border-top: 0px;
 padding: 20px;
 }
 
-.middle-container{
+/* .middle-container{
 height: 200px;
 width: 200px;
 background-color: blue;
@@ -98,7 +99,7 @@ background-color: blue;
   height: 200px;
   width: 200px;
   background-color: red;
-}
+} */
 
 .NavBar1{
   width: 100%;
